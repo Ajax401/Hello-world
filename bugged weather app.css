@@ -1,0 +1,30 @@
+h1{
+  font-family:"New Roman";
+  color:grey;
+}
+
+h3{
+  font-family:"New Roman";
+  font-style:italic;
+  color:white;
+}
+
+.decorate{
+  margin:auto;
+  margin-top:50px;
+  width:500px;
+  border-radius:5px;
+  border:2px solid grey;
+  box-shadow: 2px 2px  grey;
+}
+
+
+.btn-default{
+  background: #0099cc;
+  color: #ffffff;
+  box-shadow:2px 2px 2px #888888;
+}
+
+.btn-default:hover, .btn-default:focus, .btn-default:active{
+ background: #33a6cc; 
+} 
